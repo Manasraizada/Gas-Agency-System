@@ -35,10 +35,10 @@ This is a web-based **Gas Agency Management System** built using **HTML, CSS, Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gas-agency-system.git
+   git clone https://github.com/Manasraizada/Gas-Agency-System.git
    ```
    ```bash
-   cd gas-agency-system
+   cd Gas-Agency-System
    ```
 2. Set up Firebase:
 
